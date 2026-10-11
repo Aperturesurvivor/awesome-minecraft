@@ -718,6 +718,7 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 
 ## Documentation and Knowledge Bases
 
+- [Universal Modder Field Guide — Minecraft Java Mod Troubleshooting](https://universalmodder.dev/guides/minecraft-mod-not-loading/) — Independent, free checklist for Java runtime, loader/version, dependencies, logs, and installed JAR problems. **Specialized**
 - [PaperMC Docs](https://docs.papermc.io/) — Paper, Velocity, Folia, Adventure, and Waterfall documentation. **Recommended**
 - [Paper API Javadocs](https://jd.papermc.io/paper/) — Paper API reference.
 - [Spigot Javadocs](https://hub.spigotmc.org/javadocs/spigot/) — Spigot API reference.
